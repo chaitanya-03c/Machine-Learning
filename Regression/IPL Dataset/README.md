@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to predict IPL scores using a machine learning regression model. It leverages historical match data and key features to make accurate score predictions. Additionally, data visualization is used for better insights, and a Streamlit application has been developed to provide an interactive user experience.
 
+![ipl-app.png](https://github.com/chaitanya-03c/Machine-Learning/Regression/IPL-Dataset)
+
 ## Features
 - **Regression Model**: Used for predicting IPL scores based on past match data.
 - **Data Visualization**: Provides insights into factors affecting match scores.

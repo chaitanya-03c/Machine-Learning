@@ -53,9 +53,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries, reach out to **yourname@example.com** or visit the GitHub repository.
-
 ---
 Happy Coding! 🏠📊
 
